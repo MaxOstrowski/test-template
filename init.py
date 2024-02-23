@@ -61,7 +61,7 @@ def main():
 
     replacements = {
         "author@fillname.org": email,
-        "Author Fillname": author,
+        "<author>": author,
         "https://fillname.org/": url,
         "fillname": project,
     }
