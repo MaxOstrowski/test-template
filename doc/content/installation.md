@@ -11,7 +11,7 @@ $ fillname -h
 ## Installing with pip
 
 
-The python fillname package can be found [here](https://fillname.org/).
+The python fillname package can be found [here](<url>).
 
 ```console
 $ pip install fillname
@@ -21,7 +21,7 @@ $ pip install fillname
 
 ### Installing from source
 
-The project is hosted on [github](https://fillname.org/) and can
+The project is hosted on [github](<url>) and can
 also be installed from source.
 
 ```{warning}
@@ -35,7 +35,7 @@ The `setuptools` package is required to run the commands below.
 Execute the following command in the top level fillname directory:
 
 ```console
-$ git clone https://fillname.org/
+$ git clone <url>
 $ cd fillname
 $ pip install -e .[all]
 ```

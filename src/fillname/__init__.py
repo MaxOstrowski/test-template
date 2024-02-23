@@ -1,3 +1,3 @@
 """
-The fillname project.
+The <project> project.
 """

@@ -1,4 +1,4 @@
-# Contributing to fillname
+# Contributing to <project>
 
 First off, thanks for taking the time to contribute! ❤️
 
@@ -22,13 +22,13 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 ## Asking Questions
 
-> If you want to ask a question, we assume that you have read the available [Documentation](https://fillname.org/).
+> If you want to ask a question, we assume that you have read the available [Documentation](<url>).
 
-Before you ask a question, it is best to search for existing [issues](https://fillname.org/issues) or [messages](https://sourceforge.net/p/potassco/mailman/potassco-users/) in the archive of our mailing list.
+Before you ask a question, it is best to search for existing [issues](<url>issues) or [messages](https://sourceforge.net/p/potassco/mailman/potassco-users/) in the archive of our mailing list.
 
 If you then still feel the need to ask a question and need clarification, we recommend the following:
 
-- [Subscribe](https://sourceforge.net/projects/potassco/lists/potassco-users) to our mailing list on SourceForge or open an [issue](https://fillname.org/issues/new) on GitHub.
+- [Subscribe](https://sourceforge.net/projects/potassco/lists/potassco-users) to our mailing list on SourceForge or open an [issue](<url>issues/new) on GitHub.
 - Provide as much context as you can about what you're running into.
 - We can best help you if you provide executable code showcasing your problem.
 
@@ -41,7 +41,7 @@ We will then take care of the issue as soon as possible.
 
 ### Contributing Code
 
-To contribute to fillname, please fork the repository and **open a pull request to the main branch**.
+To contribute to <project>, please fork the repository and **open a pull request to the main branch**.
 Please use the coding style enforced by the precommit hook. To avoid unnecessary work, you can reach out to us to discuss your contribution via one of the ways described below.
 
 ### Reporting Bugs
@@ -53,7 +53,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 - Make sure that you are using the latest version.
 - Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions. If you are looking for support, you might want to check [this section](#i-have-a-question)).
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://fillname.org/issues?q=label%3Abug).
+- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](<url>issues?q=label%3Abug).
 - Collect information about the bug
   - Python Version
   - Possibly your input and the output
@@ -65,7 +65,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the project:
 
-- Open an [Issue](https://fillname.org/issues/new).
+- Open an [Issue](<url>issues/new).
 - Explain the behavior you would expect and the actual behavior.
 - Please provide as much context as possible and describe the *reproduction steps* that someone else can follow to recreate the issue on their own. This usually includes your code. For good bug reports you should isolate the problem and create a reduced test case.
 - Provide the information you collected in the previous section.
@@ -78,25 +78,25 @@ Once it's filed:
 
 ### Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for fillname, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
+This section guides you through submitting an enhancement suggestion for <project>, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
 
 <!-- omit in toc -->
 #### Before Submitting an Enhancement
 
 - Make sure that you are using the latest version.
-- Read the [documentation](https://fillname.org/) carefully and find out if the functionality is already covered, maybe by an individual configuration.
-- Perform a [search](https://fillname.org/issues) to see if the enhancement has already been suggested. If it has, add a comment to an existing issue instead of opening a new one.
+- Read the [documentation](<url>) carefully and find out if the functionality is already covered, maybe by an individual configuration.
+- Perform a [search](<url>issues) to see if the enhancement has already been suggested. If it has, add a comment to an existing issue instead of opening a new one.
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
 
 <!-- omit in toc -->
 #### How Do I Submit a Good Enhancement Suggestion?
 
-Enhancement suggestions are tracked as [GitHub issues](https://fillname.org/issues).
+Enhancement suggestions are tracked as [GitHub issues](<url>issues).
 
 - Use a **clear and descriptive title** for the issue to identify the suggestion.
 - Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
 - **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
-- **Explain why this enhancement would be useful** and how it improves fillname.
+- **Explain why this enhancement would be useful** and how it improves <project>.
 
 ## Attribution
 This guide is based on the **contributing-gen**. [Make your own](https://github.com/bttger/contributing-gen)!

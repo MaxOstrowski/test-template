@@ -60,10 +60,10 @@ def main():
     url = read("url", r".+", url)
 
     replacements = {
-        "author@fillname.org": email,
+        "<email>": email,
         "<author>": author,
-        "https://fillname.org/": url,
-        "fillname": project,
+        "<url>": url,
+        "<project>": project,
     }
 
     def replace(filepath):
